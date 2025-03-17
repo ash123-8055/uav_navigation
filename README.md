@@ -1,7 +1,5 @@
-# uav_navigation
 # UAV Navigation: Hierarchical Path Optimization Using Neuro-Fuzzy Logic in QGIS
-# This project focuses on UAV (Unmanned Aerial Vehicle) navigation using a hierarchical path optimization approach. It leverages Neuro-Fuzzy Logic to improve decision-making, combining the 
-# adaptability of fuzzy logic with the learning capability of neural networks. The system is integrated with QGIS for geospatial analysis, allowing for precise route optimization in dynamic environments.
+This project focuses on UAV (Unmanned Aerial Vehicle) navigation using a hierarchical path optimization approach. It leverages Neuro-Fuzzy Logic to improve decision-making, combining the adaptability of fuzzy logic with the learning capability of neural networks. The system is integrated with QGIS for geospatial analysis, allowing for precise route optimization in dynamic environments.
 
 🚀 Features
 QGIS Integration: Uses QGIS for geospatial data visualization and processing.
